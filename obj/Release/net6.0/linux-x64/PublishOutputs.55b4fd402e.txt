@@ -1,0 +1,15 @@
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.deps.json
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.pdb
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\AWSSDK.SecretsManager.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.SecretsManager.Extensions.Caching.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Microsoft.Extensions.Options.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\macgu\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.dll
