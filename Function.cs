@@ -18,8 +18,9 @@ public class Function
     /// <returns></returns>
     public string FunctionHandler(object input, ILambdaContext context)
     {
-              
-        string payload = $"{{'text':'Issue Created: https://github.com/macguirevan/esep-webhooks/issues/1'}}";
+        dynamic json = JsonConvert.DeserializeObject<dynamic>(input.ToString());
+        
+        string payload = $"{{'text':'Issue Created: {json.issue.html_url}'}}";
         
         var client = new HttpClient();
         var webRequest = new HttpRequestMessage(HttpMethod.Post, Environment.GetEnvironmentVariable("SLACK_URL"))
